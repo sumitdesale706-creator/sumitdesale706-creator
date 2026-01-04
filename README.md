@@ -1,5 +1,5 @@
 # 💫 About Me:
-Electronics and Telecommunication Engineering student at PCCOE with a strong foundation in Core Java and<br>SQL. Experienced in building logic-driven applications, managing relational databases, and implementing OOP<br>principles. Passionate about solving complex problems through clean code and efficient database design.<br><br><br><br>
+Electronics and Telecommunication Engineering student at PCCOE with a strong foundation in Core Java and<br>SQL. Experienced in building logic-driven applications, managing relational databases, and implementing OOP<br>principles. Passionate about solving complex problems through clean code and efficient database design.
 
 
 ## 🌐 Socials:
