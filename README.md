@@ -1,6 +1,3 @@
-# 💫 About Me:
-Electronics and Telecommunication Engineering student at PCCOE with a strong foundation in Core Java and<br>SQL. Experienced in building logic-driven applications, managing relational databases, and implementing OOP<br>principles. Passionate about solving complex problems through clean code and efficient database design.
-
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sumit_desale34) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sumit-desale34) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sumitdesale706@gmail.com) 
