@@ -1,16 +1,74 @@
+<!-- Profile Header -->
+<div align="center">
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sumit-desale34) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sumitdesale706@gmail.com) 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=200&section=header&text=Sumit%20Desale&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=MERN%20Stack%20%7C%20Full%20Stack%20Developer&descAlignY=55&descSize=18" width="100%" alt="Sumit Desale profile header"/>
 
-# 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-%2306B6D4.svg?style=for-the-badge&logo=tailwindcss&logoColor=white) ![React](https://img.shields.io/badge/React-%2320232A.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Next.js](https://img.shields.io/badge/Next.js-%23000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white) ![Express.js](https://img.shields.io/badge/Express.js-%23000000.svg?style=for-the-badge&logo=express&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+<a href="https://www.linkedin.com/in/sumit-desale34">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="mailto:sumitdesale706@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=sumitdesale706-creator&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=sumitdesale706-creator&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=sumitdesale706-creator&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=sumitdesale706-creator&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 👨‍💻 About Me
+
+- Passionate about web development and building modern web applications.
+- Focused on the **MERN Stack** and modern frontend technologies.
+- Interested in creating responsive and user-friendly web experiences.
+- Always learning and improving my development skills.
+
+## 🛠️ Tech Stack
+
+### 🎨 Frontend Development
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,tailwind,react,nextjs" alt="HTML, CSS, JavaScript, Tailwind CSS, React and Next.js"/>
+</p>
+
+### ⚙️ Backend Development
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express" alt="Node.js and Express.js"/>
+</p>
+
+### 🗄️ Database
+
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql" alt="MongoDB and MySQL"/>
+</p>
+
+### 🔧 Tools & Platforms
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman" alt="Git, GitHub, VS Code and Postman"/>
+</p>
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=sumitdesale706-creator&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub statistics"/>
+
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumitdesale706-creator&layout=compact&theme=tokyonight&hide_border=true" alt="Most used programming languages"/>
+
+<br/><br/>
+
+<img width="70%" src="https://nirzak-streak-stats.vercel.app/?user=sumitdesale706-creator&theme=tokyonight&hide_border=true" alt="GitHub contribution streak"/>
+
+</div>
+
+---
+
+<div align="center">
+
+### 💻 Keep Learning. Keep Building. Keep Growing.
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=100&section=footer" width="100%" alt="Profile footer"/>
+
+</div>
