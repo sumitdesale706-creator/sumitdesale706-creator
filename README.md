@@ -1,7 +1,8 @@
 <!-- Profile Header -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=200&section=header&text=Sumit%20Desale&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=MERN%20Stack%20%7C%20Full%20Stack%20Developer&descAlignY=55&descSize=18" width="100%" alt="Sumit Desale profile header"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=200&section=header&text=Sumit%20Desale&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer&descAlignY=55&descSize=18" width="100%" alt="Sumit Desale profile header"/>
+
 
 <a href="https://www.linkedin.com/in/sumit-desale34">
 <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
